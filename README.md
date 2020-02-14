@@ -4,7 +4,7 @@
 The aim of this mini project was to compare retention rates for children (how many kids live in the same region as adults) in a small town such as Redlands and a bigger city like Baltimore. Average household income of these kids as adults was also assessed to provide contextual data. In addition to comparing difference between Baltimore and Redlands, intracity analysis was also conducted to see differences in outcomes based on starting parent income of these children. The results are presented below. 
 
 ## Results
-
+![alt text](https://github.com/PaarthSharma98/Business-Analytics-Project-1/blob/master/Redlands%20Analysis%20Segmented.png)
 
 ## Data Analysis Steps
 1. Data was collected from [The Opportunity Atlas](https://www.opportunityatlas.org/) for Baltimore and Redlands. All datasheets had the following column values: [Tract Name Metric]
