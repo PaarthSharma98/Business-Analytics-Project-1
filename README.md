@@ -6,6 +6,8 @@ The aim of this mini project was to compare retention rates for children (how ma
 ## Results
 ![alt text](https://github.com/PaarthSharma98/Business-Analytics-Project-1/blob/master/Redlands%20Analysis%20Segmented.png)
 
+![alt text](https://github.com/PaarthSharma98/Business-Analytics-Project-1/blob/master/Baltimore%20Analysis%20Segmented.png)
+
 ## Data Analysis Steps
 1. Data was collected from [The Opportunity Atlas](https://www.opportunityatlas.org/) for Baltimore and Redlands. All datasheets had the following column values: [Tract Name Metric]
 2. Data was extracted from each excel into a common spreadsheet, separated into different sheets for Baltimore vs Redlands
